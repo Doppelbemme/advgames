@@ -1,0 +1,9 @@
+name: ADVGames
+author: Doppelbemme
+version: 0.1
+main: de.doppelbemme.advgames.main.ADVGames
+commands:
+  start:
+  setLocation:
+  additem:
+  setregion:
